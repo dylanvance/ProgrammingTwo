@@ -1,0 +1,27 @@
+Test File
+  
+Celsius
+
+99.99
+
+-9.9
+
+500.0000
+
+5000.0
+
+0.0
+
+Fahrenheit
+
+0
+
+-500
+
+33
+
+97
+
+40
+
+End Of File

@@ -1,0 +1,5 @@
+Rectangle r 2.0 2.0
+Square s 2.0
+Triangle t 2.0 2.0
+Circle c 2.0
+Shape s 2.0
